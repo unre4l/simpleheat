@@ -140,3 +140,5 @@ simpleheat.prototype = {
         }
     }
 };
+
+export default simpleheat;
